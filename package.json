@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Mean stack Blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtaKon/meanstackblog.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "blog"
+  ],
+  "author": "AtaKon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtaKon/meanstackblog/issues"
+  },
+  "homepage": "https://github.com/AtaKon/meanstackblog#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
+  }
+}
